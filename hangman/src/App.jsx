@@ -642,7 +642,7 @@ function App() {
           color: red;
         }
 
-        @media (max-width: 850px) {
+        @media (max-width: 3000px) {
           .game-grid {
             flex-direction: column;
             gap: 10px;
